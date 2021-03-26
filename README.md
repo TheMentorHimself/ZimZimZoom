@@ -4,7 +4,7 @@ This is a simple malware in C++ wich will create a copy of zoom.exe and replace 
 
 How to compile the malware:
 
-g++ [malware.cpp] -o Zoom  -> this will create the executable
+g++ zimzimzoom.cpp -o Zoom  -> this will create the executable
 
 
 
