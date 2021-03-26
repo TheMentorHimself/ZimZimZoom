@@ -1,6 +1,7 @@
 //Made by TheMentor//
 
 #include <iostream>
+#include <Windows.h>
 
 using namespace std;
 
